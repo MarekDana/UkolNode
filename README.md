@@ -1,2 +1,0 @@
-# UkolNode
-Created with CodeSandbox
